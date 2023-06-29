@@ -1,0 +1,181 @@
+動物:
+ 貓 (Cat):
+  波斯貓: Persian Cat
+  孟買貓: Bombay Cat
+  蘇格蘭折耳貓: Scottish Fold Cat
+  布偶貓: Ragdoll Cat
+  英國短毛貓: British Shorthair Cat
+  美國短毛貓: American Shorthair Cat
+  豹貓: Bengal Cat
+  脫衣貓: Sphynx Cat
+  暹羅貓: Siamese Cat
+  金吉拉貓: Singapura Cat
+  伯曼貓: Birman Cat
+  俄羅斯藍貓: Russian Blue Cat
+  東奇尼貓: Turkish Angora Cat
+  土耳其梵貓: Turkish Van Cat
+  肯德基貓: Maine Coon Cat
+  高地折耳貓: Highland Fold Cat
+  華爾街貓: Chartreux Cat
+  馬恩島貓: Manx Cat
+  斯芬克斯貓: Sphinx Cat
+  愛爾蘭軟毛貓: Selkirk Rex Cat
+
+ 狗 (Dog):
+  柴犬: Shiba Inu
+  邊境牧羊犬: Border Collie
+  黃金獵犬: Golden Retriever
+  德國牧羊犬: German Shepherd
+  法國鬥牛犬: French Bulldog
+  薩摩耶犬: Samoyed
+  貴賓犬: Poodle
+  拉布拉多犬: Labrador Retriever
+  比格犬: Beagle
+  西施犬: Shih Tzu
+  博美犬: Pomeranian
+  喜樂蒂牧羊犬: Australian Shepherd
+  鬥牛獒犬: Bullmastiff
+  英國鬥牛犬: Bulldog
+  鬆獅犬: Chow Chow
+  雪納瑞犬: Schnauzer
+  馬爾濟斯犬: Maltese
+  巴哥犬: Bichon Frise
+  柯基犬: Corgi
+  紐芬蘭犬: Newfoundland
+
+ 鳥 (Bird):
+  麻雀: Sparrow
+  鴿子: Pigeon
+  鸚鵡: Parrot
+  燕子: Swallow
+  孔雀: Peacock
+  鳳凰: Phoenix
+  鴨子: Duck
+  鴕鳥: Ostrich
+  美洲紅鸛: Scarlet Ibis
+  啄木鳥: Woodpecker
+  蜂鳥: Hummingbird
+  禿鷲: Vulture
+  白鷺: Egret
+  孔雀蛋: Quail Egg
+  紅冠藍金剛鸚鵡: Blue and Gold Macaw Parrot
+  紅隼: Red Falcon
+  鵜鶘: Pelican
+  鴯鶓: Rhea
+  鷹: Eagle
+
+ 蛇 (Snake):
+  蟒蛇: Python
+  珍珠蛇: Pearl Snake
+  銀環蛇: Ringed Snake
+  巨蟒: Boa Constrictor
+  眼鏡蛇: Cobra
+  綠樹蛇: Green Tree Snake
+  錦蛇: Garter Snake
+  蝮蛇: Pit Viper
+  大王蛇: King Snake
+  水蛇: Water Snake
+  紅頭巴西蟒: Red-tailed Brazilian Python
+  吐瓦麥蛇: Tuamotu Sand Boa
+  布氏環蛇: Banded Krait
+  雙線百納蛇: Double-banded Neotropical Rattlesnake
+  黑曼巴: Black Mamba
+  劍尾蛇: Swordtail Snake
+  華南角頭蛇: Chinese Mountain Viper
+  玻利維亞彩虹蟒: Bolivian Rainbow Boa
+  巴西點地蛇: Brazilian Ground Snake
+  黃金鳳頭蛇: Golden-headed Lancehead
+
+ 熊 (Bear):
+  熊貓: Giant Panda
+  棕熊: Brown Bear
+  黑熊: Black Bear
+  北極熊: Polar Bear
+  灰熊: Grizzly Bear
+
+ 貓科動物 (Felidae):
+  獅子: Lion
+  雄獅: Male Lion
+  雌獅: Female Lion
+  山地獅: Puma
+  老虎: Tiger
+  美洲虎: Jaguarundi
+  劍齒虎: Smilodon
+  孟加拉獅: Bengal Tiger
+  美洲豹: Jaguar
+  雲豹: Bornean Clouded Leopard
+  豹子: Leopard
+  獵豹: Cheetah
+  雪豹: Snow Leopard
+  美洲獅: Cougar
+
+ 象 (Elephant):
+  非洲象: African Elephant
+  亞洲象: Asian Elephant
+  短額象: Forest Elephant
+  長額象: Savannah Elephant
+  印度象: Indian Elephant
+
+ 魚 (Fish):
+  鯉魚: Carp
+  金槍魚: Tuna
+  三文魚: Salmon
+  鰻魚: Eel
+  鱈魚: Cod
+  龍蝦: Lobster
+  蝦: Shrimp
+  鱸魚: Sea Bass
+  鮭魚: Trout
+  鯊魚: Shark
+  鰈魚: Flounder
+  銀鯧魚: Silver Pomfret
+  草魚: Grass Carp
+  鯛魚: Snapper
+  鰻鱺: Conger Eel
+  黃鱔: Yellow Eel
+  槍烏賊: Cuttlefish
+  石斑魚: Grouper
+  海參: Sea Cucumber
+  河豚: Blowfish
+
+ 猴子 (Monkey):
+  狒狒: Baboon
+  獼猴: Macaque
+  圓臉猴: Tamarin
+  赤腹猴: Squirrel Monkey
+  絨毛猴: Marmoset
+  卷尾猴: Spider Monkey
+  狨猴: Titi Monkey
+  倭黑猩猩: Orangutan
+  長臂猿: Gibbon
+  倭猴: Japanese Macaque
+
+ 家畜 (livestock):
+  牛: Cattle
+  羊: Sheep
+  豬: Pigs
+  馬: Horses
+  雞: Chickens
+  鴨: Ducks
+  鵝: Geese
+  
+ 昆蟲 (insect):
+  螞蟻: Ant
+  蜜蜂: Bee
+  蝴蝶: Butterfly
+  蜻蜓: Dragonfly
+  蚊子: Mosquito
+  蜘蛛: Spider
+  螞蟥: Leech
+  蟋蟀: Cricket
+  螳螂: Praying Mantis
+  蚱蜢: Grasshopper
+  蟑螂: Cockroach
+  蠶: Silkworm
+  蝸牛: Snail
+  螞蚱: Locust
+  蜈蚣: Centipede
+  蜥蜴: Lizard
+  蝎子: Scorpion
+  跳蚤: Flea
+  蟎蟲: Mite
