@@ -1,0 +1,159 @@
+場景 (Scenes):
+ 四季朝暮: 
+  春天: in spring 
+  夏天: in summer 
+  秋天: in autumn 
+  冬天: in winter
+  清晨: Morning
+  黃昏: dusk 
+  夜晚: night 
+  秋景: (autumn maple forest:1.3),(very few fallen leaves),(path) 
+
+ 日月星辰: 
+  太陽: sun 
+  落日: sunset 
+  月亮: moon 
+  滿月: full_moon 
+  星星: stars 
+  天空: sky 
+  多雲: cloudy 
+  雨天: rain 
+  冰雪: snow,ice 
+  雪花: snowflakes 
+  閃電: lighting 
+  彩虹: rainbow 
+  流星雨: meteor shower 
+  宇宙: universe 
+
+ 戶外場景:
+  戶外: Outdoor
+  大海: sea 
+  山丘: hills 
+  草地: in a meadow 
+  海灘: on the beach 
+  水中: underwater 
+  海邊: over the sea 
+  樹林: grove 
+  沙漠: on a desert 
+  高原: plateau 
+  懸崖: cliff 
+  峽谷: canyon 
+  綠洲: oasis 
+  竹林: bamboo forest 
+  冰川: glacier 
+  浮島: floating island 
+  火山: volcano 
+  大草原: savanna 
+  瀑布: waterfall 
+  溪流: stream 
+  荒地: wasteland 
+  稻田: rice paddy 
+  麥田: wheat field 
+  花田: flower field 
+  花海: flower sea
+
+ 室內場景:
+  室內: indoor
+  臥室: Bedroom
+  車庫: Garage  
+  客廳: Livingroom
+  辦公室: office
+  浴室: bathroom 
+  廁所隔間: toilet stall 
+  宅男房間: otaku room 
+  餐廳: cafeteria 
+  教室: classroom 
+  俱樂部: clubroom
+  理髮店: Barber Shop 
+  酒吧: bar 
+  居酒屋: izakaya 
+  咖啡館: cafe 
+  麵包店: bakery 
+  便利店: convenience store 
+  超市: supermarket 
+  書店: bookstore 
+  藥店: pharmacy 
+  劇院: theater 
+  電影院: movie theater 
+  溫室: greenhouse 
+  地庫: dungeon 
+  健身房: gym 
+  醫務室: infirmary 
+  實驗室: laboratory 
+  圖書館: library 
+  工作坊: workshop 
+  舞台: stage 
+  法庭: courtroom 
+
+ 家具 (indoor furniture):
+  沙發: Sofa
+  餐桌: Dining table
+  椅子: Chair
+  書架: Bookshelf
+  電視櫃: TV stand
+  床: Bed
+  衣櫃: Wardrobe
+  鞋櫃: Shoe cabinet
+  咖啡桌: Coffee table
+  餐椅: Dining chair
+  邊桌: Side table
+  電腦桌: Computer desk
+  電視架: TV mount
+  軟座椅: Armchair
+  長凳: Bench
+  矮櫃: Low cabinet
+  折疊桌: Folding table
+  衣帽架: Coat rack
+  梳妝台: Vanity table
+  高腳凳: Bar stool
+  窗簾: curtain 
+   
+ 城市建築: 
+  城堡: castle 
+  城市: city 
+  水上樂園: waterpark 
+  旋轉木馬: carousel 
+  摩天輪: ferris wheel 
+  水族館: aquarium 
+  動物園: zoo 
+  保齡球館: bowling alley 
+  美術館: art gallery 
+  博物館: museum 
+  天文館: planetarium 
+  游泳池: swimming pool 
+  體育場: stadium 
+  寺廟: temple 
+  巴士車站: bus stop 
+  火車站: train station 
+  噴泉: fountain 
+  遊樂場: playground 
+  市場攤位: market stall 
+  電話亭: phone booth 
+  鐵軌: railroad tracks 
+  機場: airport 
+  隧道: tunnel
+
+ 背景氛圍:
+  狂歡派對: Rave Party
+  音樂會: concert
+  戰場: battlefield
+  爆炸: explosion 
+  蒸汽: water vapor 
+  焰火: fireworks 
+  落地窗: ceiling window 
+  彩色玻璃: colourful glass 
+  染色玻璃: stain glass 
+  塗鴉牆: Graffiti wall 
+  馬賽克背景: mosaic background 
+  液體背景: liquid background, Sputtered water 
+  魔法環: magic circles 
+  熒光蘑菇森林: fluorescent mushroom forests background 
+  彩色泡泡: (((colorful bubble)))
+  新年: new year 
+  情人節: valentine 
+  元宵節: lantern festival 
+  夏日祭: summer festival 
+  七夕節: tanabata 
+  中秋節: mid-autumn festival 
+  萬聖節: halloween 
+  聖誕節: christmas
