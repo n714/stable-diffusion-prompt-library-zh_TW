@@ -1,4 +1,7 @@
 # stable-diffusion-prompt-library-zh_TW
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/n714mc)
+
 Stable Diffussion 繁體中文提示詞庫
 
 - 0 - 負面提示詞
